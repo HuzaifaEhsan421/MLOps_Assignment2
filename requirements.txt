@@ -1,0 +1,7 @@
+websocket-client==1.8.0
+dvc
+dvc[gdrive]
+python-dotenv==1.0.1
+nest-asyncio==1.6.0
+bs4==0.0.2
+psycopg2==2.9.9

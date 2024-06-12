@@ -1,0 +1,5 @@
+outs:
+- md5: ec44c92ec200286ab3f31658639ef78a
+  size: 12979
+  hash: md5
+  path: articles.csv
