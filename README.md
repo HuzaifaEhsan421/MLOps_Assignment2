@@ -26,5 +26,4 @@ This repository contains the code and resources for Assignment 2 of the MLOps co
     ```bash 
     dvc pull
 
-4. Airflow dag 
-    ```bash
+
