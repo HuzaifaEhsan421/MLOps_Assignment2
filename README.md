@@ -1,7 +1,7 @@
 # MLOps_Assignment2
 
 ## Overview
-This repository contains the code and resources for Assignment 2 of the MLOps course. It demonstrates the implementation of machine learning operations and pipeline management using DVC (Data Version Control).
+This repository contains the code and resources for Assignment 2 of the MLOps. It demonstrates the implementation of machine learning operations and pipeline management using DVC (Data Version Control).
 
 ## Contents
 - `.dvc/`: DVC configuration files.
